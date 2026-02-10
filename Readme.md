@@ -2,9 +2,9 @@
 
 👨‍🎓 Basic Information
 
-Name: Saransh Boss
+Name: Saransh Singh 
 
-Registration Number: 23BAS10099
+Registration Number: 23BAS10099 
 
 Branch: Aerospace Engineering
 
